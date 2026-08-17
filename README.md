@@ -130,3 +130,14 @@ The project also highlighted the importance of understanding service configurati
 **Author:** Aliyu Moses  
 **Field:** Cybersecurity  
 **Institution:** Nasarawa State University, Keffi
+## 📂 Project Files
+
+- [Project Documentation (PDF)](./Aliyu_Moses_Network_Service_Discovery_Project.pdf)
+- [Project Screenshots](./screenshots/)
+
+## 👨🏽‍💻 Author
+
+**Aliyu Moses**  
+Cybersecurity Student — Nasarawa State University, Keffi
+
+Interested in cybersecurity, networking, Linux, and information security.
